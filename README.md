@@ -35,3 +35,11 @@ car.py: The main script that captures video, processes hand gestures, and simula
 
 keyinput.py: A custom module for simulating keyboard inputs.
 
+
+## You can install the required libraries using pip:
+```bash
+pip install opencv-python mediapipe
+git clone https://github.com/Syam-1133/Car-Game-Control-Using-Hand-Gestures-
+python car.py
+
+
